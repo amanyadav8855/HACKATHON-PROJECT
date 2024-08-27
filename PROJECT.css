@@ -1,0 +1,31 @@
+body { background-image: url(taj-mahal-368_1280_1333x1000.png);
+    background-size:100%;
+    background-repeat:  no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+
+    #navbar{
+        height: 60%;
+        background-color: black;
+        margin: 
+    }
+    
+    button{
+        background-color: yellow;
+    }
+    #logo{
+        color: yellow;
+        font-size: 25px;
+    }
+    
+    
+    a{
+        margin-right: 250px;
+        text-decoration: none;
+    
+    }
+    
